@@ -1,4 +1,4 @@
 # gestaoegovernaca
 gestaoegovernaca
 
-<img src="/assets/imagens/icegif-183.gif">
+<img src="/imagens/icegif-183.gif">
